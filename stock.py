@@ -228,7 +228,7 @@ def view(x):
     return
 
 print ("Welcome to Stock Management Python 3.9 CLI") #Greetings
-print ("Developed by Reebal Javed Khan a.k.a. @Zokemore https://zetatech.ml") # Program Info
+print ("Developed by Reebal Javed Khan a.k.a Zokemore") # Program Info
 try:
     print("Kindly provide directory to store databaseinfo file on prompt")
     print("Make sure directory is accessible and have proper permissions")
